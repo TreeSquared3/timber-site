@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+#main-box {
+    width: 400;
+    height: 500;
+    padding: 10%;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+}
+
+#main-box div {
+    background: rgb(45, 141, 1);
+    border-radius: 5px;
+    padding: 20px;
+    flex: 1;
+    text-align: center;
+}
